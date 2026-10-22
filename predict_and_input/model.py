@@ -1,7 +1,7 @@
 import joblib
 
 
-modle = joblib.load("final_praject.pkl")
+modle = joblib.load("train_model/final_praject.pkl")
 
 def predict_price(area, rooms, age):
     prediction = modle.predict([[area, rooms, age]])
