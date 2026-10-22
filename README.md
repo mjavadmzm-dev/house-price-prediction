@@ -18,3 +18,11 @@ pip install -r requirements.txt
 ## Run the App
 
 streamlit run app.py
+
+Business Plan | طرح کسب‌وکار
+
+Read the complete business plan in Persian and English:
+
+View Business Plan
+
+در این سند، مشتریان هدف، مزیت‌های پروژه، مدل درآمدی پیشنهادی، برنامهٔ توسعه، فرضیات مالی و ریسک‌های کسب‌وکار توضیح داده شده‌اند
